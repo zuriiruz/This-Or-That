@@ -1,3 +1,3 @@
 # cs122-final
-# Product Name
+# This or That
 Sophie, Camille, Zuri

@@ -1,2 +1,3 @@
 # cs122-final
-# Hello
+# Product Name
+Sophie, Camille, Zuri

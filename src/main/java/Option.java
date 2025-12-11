@@ -1,5 +1,7 @@
+package src.main.java;
+// object class
+
 public class Option {
-    // object class for options to compare
     private final String name; 
     private int wins;
     private int losses;

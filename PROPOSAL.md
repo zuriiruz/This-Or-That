@@ -16,11 +16,11 @@ Category: Game Development
 
 4. WHY IT'S VALUABLE (1-2 sentences)
     
-    The root of the benefits of our product is time optimization and subsequent ly,stress relief.  By relieving the time and brainpower needed to make a decision, this optimizes the amount of time needed to act on the task/decision at hand.
+    The root of the benefits of our product is time optimization and subsequently, stress relief.  By relieving the time and brainpower needed to make a decision, this optimizes the amount of time needed to act on the task/decision at hand.
 
 5. HOW YOU'LL MAKE MONEY (1-2 sentences)
 
-   A one-time purchase of (TBD)
+   The game would require a one-time purchase of $3.99 to be made in order to access the entire game. Once the game expands to a larger player base, new content would be added with an additional one-time purchase of $1.99. 
 
 6. MVP FEATURES (Bulleted list)
 
@@ -70,7 +70,7 @@ Category: Game Development
 
 11. SOURCES & REFERENCES (REQUIRED - NOT OPTIONAL)
     List all sources for market claims, competitive analysis, and research
-    - Source 1: [Title/URL]
-    - Source 2: [Title/URL]
-    - Interviews: [Who you spoke with]
+    - Source 1: https://www.userresearchstrategist.com/p/a-guide-to-pairwise-comparison 
+    - Source 2: https://www.researchgate.net/publication/266398023_Gamification_in_Theory_and_Action_A_Survey
+    - Interviews: Ran a survey asking friends aged teenagers to young adults asking whether they had interest in the game and what they would pay.
 

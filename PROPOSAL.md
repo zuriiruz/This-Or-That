@@ -20,7 +20,7 @@ Category: Game Development
 
 5. HOW YOU'LL MAKE MONEY (1-2 sentences)
 
-   The game would require a one-time purchase of $3.99 to be made in order to access the entire game. Once the game expands to a larger player base, new content would be added with an additional one-time purchase of $1.99. 
+   The game would require a one-time purchase of $2.99 to be made in order to access the entire game. 
 
 6. MVP FEATURES (Bulleted list)
 

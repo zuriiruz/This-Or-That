@@ -59,14 +59,14 @@ Category: Game Development
    - Competitive analysis (what exists now, why ours is better)
    - Market research sources (prove your market exists)
    - Success metrics (what proves viability?)
+  
+     We ran a survey that was given out to around 20 people within our target audience's age range, with the majority of responses confirming that decision fatigue is a common issue amongst teenagers and young adults, and that a game that's purpose was to guide the user in making decisions would help with decision fatigue. Through research, it's proven that not only is pairwise comparison a common testing strategy, but is already a large part of young adult spaces such as fandom, where others create websites made to rank various things like characters through pairwise comparison. This or That stands out against these because it allows the user to create a custom ranking list and input any options compared to websites which are restricted to a specific set of options made by the creator, allowing ordinary people who don't have the knowledge to make their own ranking algorithm to have access to easy pairwise comparison. 
 
 10. SCALABILITY: ROADMAP FROM MVP TO 100K USERS (REQUIRED - NOT OPTIONAL)
-    Phase 1 (Now): MVP with X users/features
-    Phase 2 (6 months): Expand to X users, add X features
-    Phase 3 (12 months): Scale to X users, add X features
+    Phase 1 (Now): MVP with 20 users and the base game, $2.99 one time purchase to access custom rankings. 
+    Phase 2 (6 months): Expand to 50k users, create an app game with clean visuals that draws in attention from potential users and an account system. One time $4.99
+    Phase 3 (12 months): Scale to 100k users, add image export and public ranking lists, turn the app into a social tool and allow users to access and share old rankings. Convert app to a freemium model where base rankings are free, but a premium plan of $4.99/month allows the user to rank unlimited items, use custom themes in rankings, and be able to publish their rankings to a community page. 
 
-    Technical progression needed to scale
-    Revenue model at each phase
 
 11. SOURCES & REFERENCES (REQUIRED - NOT OPTIONAL)
     List all sources for market claims, competitive analysis, and research
